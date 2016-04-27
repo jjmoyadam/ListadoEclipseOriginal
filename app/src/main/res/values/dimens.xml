@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="tamanio_letra_pc">24sp</dimen>
+    <dimen name="tamanio_letra_listado_archivos">24sp</dimen>
+    <dimen name="margen_pc">5dp</dimen>
+    <dimen name="alto_icono_lista">35dp</dimen>
+        <dimen name="alto_icono_selector_pc">30dp</dimen>
+    
+</resources>

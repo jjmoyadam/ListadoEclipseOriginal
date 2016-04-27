@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_ccc0fd52926e464c4f066de5f18bfb38a359ecbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="11f8b27f209f1e4a99efd77997a098d97233eb26">
+        <dex dex="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\pre-dexed\debug\instant-run_2a34e2d8c3d57aa04f59cef1d92006d4abcf508e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_25397e08d4b372e01d4fa77597460b722df6f2b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ainhoa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_74fe0b5fa72b110ea017de2b36e1945decf78a2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_4d3ace136c13bb22c642dfe947147fcca9790e0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\libs\util.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcfa0fc2e736b521341e646d6a08e58236888b5c">
+        <dex dex="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\pre-dexed\debug\util_8dd9da5c91b6f1005715c85b592dcf5864a19036.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_90aa6d44bd0d87a63c524162fcc4f74dc2993d73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="afe434b1161b7b22b09c5e06cb03eea330e0beb9">
+        <dex dex="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ce2ae2104317aa2ba547d29add95a8ae5636ca66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_d3132217d8997c63b27da81290943b3ea416fe4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\libs\poi-3.13-20150929.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0f59f504ba8c521e61e25f417ec652fd485010f3">
+        <dex dex="C:\Users\Ainhoa\AndroidStudioProjects\ListadoEclipseOriginal\app\build\intermediates\pre-dexed\debug\poi-3.13-20150929_808801fe9a931155c3ccd352ff1b0a21da4d3703.jar" />
+    </item>
+
+</items>

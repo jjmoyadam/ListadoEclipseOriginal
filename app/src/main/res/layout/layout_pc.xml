@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gris"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_clasificacion_pc"
+            style="@style/Dato.PC"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/borde_a4" />
+
+        <Spinner
+            android:id="@+id/sp_valor"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/borde_a4"
+            android:entries="@array/valores_array"
+            android:prompt="@string/tit_valores"
+            style="@style/Dato.PC" />
+
+        <TextView
+            android:id="@+id/tv_porcentaje_completado"
+            style="@style/Dato.PC"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/borde_a4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_descripcion_grupo"
+            style="@style/TextView.PC"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/borde_inferior"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_descripcion_pc"
+            style="@style/TextView.PC"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClick_tvDescripcionPc" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/et_observacion"
+            style="@style/EditText.PC"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="top" />
+    </LinearLayout>
+
+</LinearLayout>

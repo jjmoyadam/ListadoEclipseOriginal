@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+        <item
+        android:id="@+id/btn_cabecera"
+        android:icon="@drawable/ic_menu_info_details"
+        android:orderInCategory="1"
+        android:title="@string/tit_cabecera"
+        app:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/btn_listar_pcs"
+        android:icon="@drawable/ic_menu_moreoverflow"
+        android:orderInCategory="2"
+        android:title="@string/tit_listar_pcs"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/btn_guardar"
+        android:icon="@drawable/ic_guardar"
+        android:orderInCategory="3"
+        android:title="@string/guardar"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/btn_anterior"
+        android:icon="@drawable/ic_menu_back"
+        android:title="@string/anterior"
+        android:orderInCategory="4"
+        app:showAsAction="always"/> 
+    <item
+        android:id="@+id/btn_siguiente"
+        android:icon="@drawable/ic_menu_forward"
+        android:orderInCategory="5"
+        android:title="@string/siguiente"
+        app:showAsAction="always"/>
+
+</menu>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <item name="gris" type="color">#808080</item>
+    <item name="verde" type="color">#00FF80</item>
+    <item name="negro" type="color">#000000</item>
+    <item name="veige" type="color">#FFFAAA</item>
+</resources>

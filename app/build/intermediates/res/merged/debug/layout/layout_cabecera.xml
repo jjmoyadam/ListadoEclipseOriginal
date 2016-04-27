@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+
+        <EditText
+            android:id="@+id/et_numero_operador"
+			android:hint="@string/hint_numero_operador"            
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="number"
+             />
+        <EditText
+            android:id="@+id/et_numero_visita"
+			android:hint="@string/hint_numero_visita"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="number"
+            />
+
+  
+
+</LinearLayout>

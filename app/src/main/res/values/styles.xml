@@ -1,0 +1,35 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"></style>
+
+    <style name="TextView.PC" parent="@style/AppTheme">
+        <item name="android:textSize">@dimen/tamanio_letra_pc</item>
+        <item name="android:padding">@dimen/margen_pc</item>
+    </style>
+
+        <style name="Dato.PC" parent="@style/AppTheme">
+        <item name="android:textSize">@dimen/tamanio_letra_pc</item>
+        <item name="android:gravity">center</item>
+        
+    </style>
+    
+    <style name="EditText.PC" parent="@style/AppTheme">
+        <item name="android:textSize">@dimen/tamanio_letra_pc</item>
+        <item name="android:gravity">top</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:padding">@dimen/margen_pc</item>
+    </style>
+
+    <style name="Spinner.ValorPC" parent="@style/AppTheme">
+        <item name="android:textSize">@dimen/tamanio_letra_pc</item>
+        <item name="android:gravity">center</item>        
+    </style>
+    
+    <style name="TextView.ItemLista" parent="@style/AppTheme">
+        <item name="android:textSize">@dimen/tamanio_letra_listado_archivos</item>
+        <item name="android:gravity">left</item>
+        
+    </style>
+
+</resources>

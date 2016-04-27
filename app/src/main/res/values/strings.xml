@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">QBio</string>
+
+    <string-array name="Tags">
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>JavaScript</item>
+        <item>Angular JS</item>
+        <item>Python</item>
+        <item>Ruby on Rails</item>
+    </string-array>
+
+    <string name="nombre_carpeta">Listas_Verificacion</string>
+    <string name="drawer_open">Abrir navigation drawer</string>
+    <string name="drawer_close">Cerrar navigation drawer</string>
+    <string name="headlines">Encabezados de</string>
+    <string name="nueva_lista">Nueva lista</string>
+    <string name="anterior">Anterior</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="msg_error_leer_lv"></string>
+    <string name="msg_tope_pc">No hay más puntos de control</string>
+    <string name="hint_nuevo_archivo">Nombre del archivo</string>
+    <string name="hint_numero_operador">Número de operador</string>
+    <string name="hint_numero_visita">Número de auditoría</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="tit_nueva_lista">Editar lista</string>
+    <string name="msg_archivo_existe">Ya existe este archivo</string>
+    <string name="msg_error_cabecera_no_valida">Nº de operador y/o Nº de auditoría no son válidos</string>    
+    <string name="guardar">Guardar</string>
+    <string name="msg_error_nombre_archivo_no_valido">El nombre del archivo contiene caracteres no permitidos</string>
+    <string name="tit_selector_observacion">Selecciona observación tipo</string>
+    <string name="tit_error">Error</string>
+    <string name="tit_valores">Valor</string>
+    <string name="tit_listas_vertificacion">Listas de verificación</string>
+    <string name="tit_copiar">Copiar</string>
+    <string name="tit_selector_pc">Ir a...</string>
+    <string name="tit_listar_pcs">Listar puntos de control</string>
+    <string name="tit_cabecera">Datos del informe</string>
+    
+
+    <string-array name="valores_array">
+        <item></item>
+        <item>V</item>
+        <item>F</item>
+        <item>NA</item>
+    </string-array>
+
+</resources>
